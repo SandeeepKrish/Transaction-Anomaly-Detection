@@ -1,4 +1,4 @@
-# 🔎 AI Anomaly Agent — Data Analyst Portfolio Project
+# 🔎 AI Anomaly Agent 
 
 An end-to-end Streamlit portfolio project that detects unusual transactions with **Isolation Forest** and presents analyst-friendly explanations.
 
